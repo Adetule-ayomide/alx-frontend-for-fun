@@ -848,7 +848,7 @@ input[type="text"], input[type="email"], textarea{
     border: .1rem solid var(--color-black);
     background-color: var(--color-white);
     box-shadow: none;
-    outline: none;
+    outline: 0;
 }
 
 input[type="text"], input[type="email"]{
