@@ -3,10 +3,12 @@
   Margin 10px to all of the p tags inside body tags
 */
 
+$margin: 10px;
+
 body{
 	margin: 0;
 	padding: 0;
 	p{
-		margin: 10px;
+		margin: $margin;
 	}
 }
